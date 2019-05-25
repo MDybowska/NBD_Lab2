@@ -1,0 +1,13 @@
+//Utworzona kolekcja z agregacji
+[
+	{
+		"_id" : "Female",
+		"height" : 166.81260913705583,
+		"weight" : 70.11331573604062
+	},
+	{
+		"_id" : "Male",
+		"height" : 166.7346950726979,
+		"weight" : 70.00976575121163
+	}
+]

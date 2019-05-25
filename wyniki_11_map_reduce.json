@@ -1,0 +1,30 @@
+//Wynik map-reduce
+{
+	"result" : "map-reduce1",
+	"timeMillis" : 237,
+	"counts" : {
+		"input" : 9878,
+		"emit" : 9878,
+		"reduce" : 198,
+		"output" : 2
+	},
+	"ok" : 1
+}
+
+//Utworzona kolekcja z map-reduce
+[
+	{
+		"_id" : "Female",
+		"value" : {
+			"height" : 166.77874543239966,
+			"weight" : 70.09908241981334
+		}
+	},
+	{
+		"_id" : "Male",
+		"value" : {
+			"height" : 166.73469507269812,
+			"weight" : 70.00976575121167
+		}
+	}
+]
